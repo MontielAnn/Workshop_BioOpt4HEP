@@ -1,2 +1,3 @@
 # Workshop_BioOpt4HEP
-Algoritmos de optimización bio-inspirados (PSO, DE &amp; DEPSO) aplicados a la física de partículas, con énfasis en texturas de las matrices de masa de fermiones. Incluye funciones benchmark y casos de prueba.
+Este repositorio reúne implementaciones en C de tres algoritmos de optimización bio-inspirados —Optimización por Enjambre de Partículas (PSO), Evolución Diferencial (DE) y su variante híbrida DEPSO— y explora su aplicación en fenomenología de física de partículas. El escenario central de aplicación es el análisis de texturas en matrices de masa de fermiones, una línea de investigación clave para comprender el problema del sabor.
+
